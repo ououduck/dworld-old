@@ -1,6 +1,6 @@
 # DWorld · D 的世界
 
-> ⚠️ **本站点已并入 [ououduck/pldduck](https://github.com/ououduck/pldduck)，本仓库已封存、停止部署，稍后改名为 `dworld-old`。**
+> ⚠️ **本站点已并入 [ououduck/pldduck](https://github.com/ououduck/pldduck)，本仓库已封存、停止部署，并已改名为 `dworld-old`。**
 > 合并后的站点单域提供服务（`www.pldduck.com`）：这里的主页内容已按 editorial 风格重做为其首页，
 > 博客功能页拆到同域子路径（`/post/:id`、`/shuoshuo`、`/friends` 等）。
 > 这里不再开发、不再部署；在域名切流完成前，`www.pldduck.com` 仍指向当前这个仓库的旧部署，下方文档仅作历史留存。
