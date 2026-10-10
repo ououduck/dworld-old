@@ -1,3 +1,8 @@
+# ⚠️ 本仓库已封存：站点并入 ououduck/pldduck，www.pldduck.com 改由那边的 deploy.yml 部署
+#    （域名切流后生效）。站主下线这里的 Cloudflare / EdgeOne 资源后本流水线不再运行，保留仅为历史。
+#    注意：本文件的 Validate dispatch ref 步骤把 ${{ }} 直接插进 run: 脚本，是命令注入面；
+#    pldduck 已改为经 env: 间接引用，若要复用本流水线请照那份改（勿在此处修补）。
+#
 # deploy.yml — 手动触发的双平台部署流水线。
 #
 # 构建在 GitHub Actions 完成（公开仓库免费无限额度），产物通过直传（direct upload）
